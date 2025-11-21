@@ -1,0 +1,1 @@
+This project solves the Number of Islands problem using Depth-First Search (DFS). Given a 2D grid of 0s (water) and 1s (land), the program counts how many separate connected groups of land exist. Islands are connected vertically or horizontally. The project demonstrates matrix traversal and graph-based problem solving using Java
